@@ -3,7 +3,10 @@ import Layout from "../components/Layout";
 
 const Index = () => (
   <Layout>
-    <h1>hello world</h1>
+    <h1>Covid-19 Viewer</h1>
+    <div>
+      <h3>このアプリについて</h3>
+    </div>
   </Layout>
 );
 
