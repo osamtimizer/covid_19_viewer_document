@@ -13,7 +13,7 @@ const Header = () => {
       <Link href="/about">
         <a style={linkStyle}>このアプリについて</a>
       </Link>
-      <Link href="/privacy_policy">
+      <Link href="/privacyPolicy">
         <a style={linkStyle}>プライバシーポリシー</a>
       </Link>
     </div>
