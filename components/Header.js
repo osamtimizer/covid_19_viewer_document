@@ -13,6 +13,9 @@ const Header = () => {
       <Link href="/privacyPolicy">
         <a style={linkStyle}>プライバシーポリシー</a>
       </Link>
+      <div>
+        <h1>Covid-19 Viewer</h1>
+      </div>
     </div>
   );
 };

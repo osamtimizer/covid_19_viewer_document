@@ -3,7 +3,7 @@ import Layout from "../components/Layout";
 
 const PrivacyPolicy = () => (
   <Layout>
-    <h1>プライバシーポリシー</h1>
+    <h2>プライバシーポリシー</h2>
     <div>
       <p>
         本アプリケーションでは、利用状況データを収集するツールとしてFirebase(Google
