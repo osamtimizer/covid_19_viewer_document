@@ -14,9 +14,9 @@ jobs:
       - uses: actions/setup-node@v1
         with:
         node-version:L ${{ matrix.node-version }}
-    - run: npm install
-      env:
-        CI: true
+      - run: npm install
+        env:
+          CI: true
   deploy:
     name: Publish to prod
     runs-on: ubuntu-latest
