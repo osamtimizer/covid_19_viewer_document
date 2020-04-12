@@ -24,6 +24,9 @@ const Index = () => (
       <a href="https://kyash.me/payments/JttV0ZEH90185UYLJmqBBQ5T8Pgw">
         Kyashで作者に500円を送る
       </a>
+      <div>
+        <img src="/kyash.png" alt="kyash qr code" width="200"></img>
+      </div>
     </div>
   </Layout>
 );
