@@ -28,6 +28,16 @@ const Index = () => (
         <img src="/kyash.png" alt="kyash qr code" width="200"></img>
       </div>
     </div>
+    <div>
+      <h3>作者について</h3>
+      <p>@osamtimizer</p>
+      <div>
+        <a href="https://twitter.com/osamtimizer">Twitter</a>
+      </div>
+      <div>
+        <a href="https://osamtimizer.hatenablog.com/">Blog</a>
+      </div>
+    </div>
   </Layout>
 );
 
